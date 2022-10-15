@@ -1,4 +1,5 @@
 # PhotoSquaringApp
+![Convert image](Img/App_image.png "App_image")
 
 ## Overview
 This squares a picture by inserting a margin.  
