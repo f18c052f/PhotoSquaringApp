@@ -25,7 +25,7 @@ It's not required installing python and its libraries.
 
 ## Usage
 **Code**  
-1. Clone or download _src_ folder.
+1. Clone or download _Src_ folder.
 2. The directory structure should be as follows:
 <pre>
 .
